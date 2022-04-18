@@ -1,0 +1,21 @@
+c1/homme :personne
+c2/femme :personne
+c3/conduire :action
+c4/piloter :action
+c5/ecouter :action
+c6/avion :vehicule
+c7/voiture :vehicule
+c8/vehicule :entite
+c9/radio :entite
+r1/objet
+r2/possede
+r3/agent
+r4/marie_de
+s1/agent(personne,action)
+s2/objet(action,entite)
+s3/possede(personne,entite)
+s4/marie_de(homme,femme)
+I/jean,marie,megane
+t/jean=homme
+t/marie=femme
+t/megane=voiture
